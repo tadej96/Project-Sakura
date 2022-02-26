@@ -1,0 +1,4 @@
+repository "sakura@sakura_project@cloud"
+  path "/"
+    br "/main"
+    co "/main"
